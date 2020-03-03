@@ -27,7 +27,7 @@
   "homepage": "https://github.com/voxmedia/convert-rich-text",
   "dependencies": {
     "jsdom": "^11.6.2",
-    "lodash": "^3.6.0"
+    "lodash": "^4.0.0"
   },
   "devDependencies": {
     "chai": "^2.2.0",
